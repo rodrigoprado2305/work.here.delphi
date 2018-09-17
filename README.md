@@ -1,14 +1,40 @@
-# Trabalhe na AZ - Delphi
-Este é nosso processo de seleção. Simples assim.
-Somos uma empresa dinânica, focada em produzir soluções de qualidade, de forma ágil.
+Estou enviando duas pastas zipadas.
 
-Tudo o que você precisa fazer para candidatar-se à uma vaga aqui na AZ é resolver as tarefas propostas neste projeto, seguindo, é claro, as instruções apresentadas abaixo:
+Uma com os fontes, outra com a versão embarcada.
 
-1. Faça um fork deste projeto.
-2. Resolva as issues do projeto.
-3. Envie um email para rh@azsolucoes.com.br com o link do repositório.
-4. Aguarde um retorno do nosso time de avaliação.
+Banco: Firebird-3.0.3.32900-0_Win32 - embarcado
+Delphi: Tokyo 10.2.3 Comm...
+ACBR
+FAST REPORT 5.3.16
+FortesReport Community Edition
 
-> Não se acanhe, fique a vontade para tirar suas duvidas com nosso time de desenvolvimento em ti@azsoluções.com.br
+0-Executando a aplicação
+1- na pasta: NFE-FBEmbedded, execute o aplicativo: prjNFE.execute
+1.1- Vão estar todas as bibliotecas e dlls para execução
 
-**Então mãos a obra.**
+2-Na pasta LEIAME, consta os exemplos de utilização das telas.
+
+Issues
+1 - Criar a base de dados
+Resp: NA PASTA LEIAME, FIREBIRD.sql e FIREBIRD-Selects.sql 
+
+2 - Crie uma Tela de Leitura e Lançamento
+Resp: Fiz usando o acbr, todavia não fis os lançamentos, lah emite o xml e a danfe conforme consta nas documentações do acbr, não fiz por falta de tempo, mas eu sei fazer.
+
+3- Criar uma tela de CRUD para a entidade Cliente
+Resp: NA PASTA LEIAME, exemplos02.jpg, cadastros... pesquisa usando API REST de Geolocation, com trestclient
+
+4-Criar um relatório de notas fiscais que contenha os seguintes dados
+resp: NA PASTA LEIAME, exemplo07.jpg e exemplo08.jpg, no sistema também gerou os pdfs, esta feito lah.
+4.1: D:\Desenvolvimento\Prova Delphi\NFE-FBEmbedded\Docs
+
+5- Criar um Relatório de Serviços e Produtos que contenha os seguintes dados:
+ok
+6- Criar um Relatório de Ranking que contenha os seguintes dados:
+ok, não fiz de serviço e produto.... apenas de cliente, esta no sistema no menu relatórios, Exemplo10.JPG
+
+7-Montar Ambiente de Produção ou Instalador
+Ok
+
+8-Criar Documentação
+ok
