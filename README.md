@@ -14,6 +14,8 @@ FortesReport Community Edition
 
 2-Na pasta LEIAME, consta os exemplos de utilização das telas.
 
+3-Setar o Arquivo do BD em configurações.ini, pois é versão embarcada.
+
 Issues
 1 - Criar a base de dados
 Resp: NA PASTA LEIAME, FIREBIRD.sql e FIREBIRD-Selects.sql 
