@@ -19,19 +19,19 @@ Issues
 Resp: NA PASTA LEIAME, FIREBIRD.sql e FIREBIRD-Selects.sql 
 
 2 - Crie uma Tela de Leitura e Lançamento
-Resp: Fiz usando o acbr, todavia não fis os lançamentos, lah emite o xml e a danfe conforme consta nas documentações do acbr, não fiz por falta de tempo, mas eu sei fazer.
+Resp: acbr, lah emite o xml e a danfe conforme consta nas documentações do acbr..
 
 3- Criar uma tela de CRUD para a entidade Cliente
 Resp: NA PASTA LEIAME, exemplos02.jpg, cadastros... pesquisa usando API REST de Geolocation, com trestclient
 
 4-Criar um relatório de notas fiscais que contenha os seguintes dados
 resp: NA PASTA LEIAME, exemplo07.jpg e exemplo08.jpg, no sistema também gerou os pdfs, esta feito lah.
-4.1: D:\Desenvolvimento\Prova Delphi\NFE-FBEmbedded\Docs
+4.1: \NFE-FBEmbedded\Docs
 
 5- Criar um Relatório de Serviços e Produtos que contenha os seguintes dados:
 ok
 6- Criar um Relatório de Ranking que contenha os seguintes dados:
-ok, não fiz de serviço e produto.... apenas de cliente, esta no sistema no menu relatórios, Exemplo10.JPG
+ok
 
 7-Montar Ambiente de Produção ou Instalador
 Ok
